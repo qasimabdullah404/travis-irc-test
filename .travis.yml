@@ -5,4 +5,7 @@ language: generic
 script: true
 
 notifications:
-  irc: "chat.freenode.net#qasim-travis-test"
+  irc: 
+    channels: 
+      - "chat.freenode.net#qasim-travis-test"
+    use_notice: true
