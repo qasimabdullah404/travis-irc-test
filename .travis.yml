@@ -7,5 +7,5 @@ script: true
 notifications:
   irc: 
     channels: 
-      - "chat.freenode.net#qasim-travis-test"
+      - "chat.freenode.net#anonchan"
     use_notice: true
