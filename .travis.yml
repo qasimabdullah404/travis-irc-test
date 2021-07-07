@@ -1,0 +1,8 @@
+os: linux
+dist: focal
+language: generic
+
+script: true
+
+notifications:
+  irc: "chat.freenode.net#qasim-travis-test"
