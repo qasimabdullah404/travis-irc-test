@@ -8,4 +8,3 @@ notifications:
   irc: 
     channels: 
       - "chat.freenode.net#qasim-travis-test"
-    use_notice: true
