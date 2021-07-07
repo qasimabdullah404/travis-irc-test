@@ -9,3 +9,5 @@ notifications:
     channels: 
       - "chat.freenode.net#qasim-travis-test"
     use_notice: true
+    on_success: always
+    on_failure: always
