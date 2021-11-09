@@ -7,4 +7,4 @@ script: true
 notifications:
   irc: 
     channels: 
-      - "chat.freenode.net#qasim-travis-test"
+      - "http://www.dal.net:9090/#travistest"
