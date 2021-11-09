@@ -7,5 +7,5 @@ script: true
 notifications:
   irc: 
     channels: 
-      - "client01.chat.mibbit.com/#travistest"
-      - client01.chat.mibbit.com/#travistest
+      - "http://client01.chat.mibbit.com#travistest"
+      - http://client01.chat.mibbit.com/#travistest
