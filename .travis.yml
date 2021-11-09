@@ -7,4 +7,5 @@ script: true
 notifications:
   irc: 
     channels: 
-      - "http://www.dal.net:9090/#travistest"
+      - "client01.chat.mibbit.com/#travistest"
+      - client01.chat.mibbit.com/#travistest
